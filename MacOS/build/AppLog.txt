@@ -1,0 +1,11 @@
+[0]:Main Entry Point into Application
+[1]:Beginning initialization of GLFW
+[2]:initialized GLFW successfully
+[3]:created GLFW window successfully
+[4]:Beginning initialization of Vulkan
+[5]:Creating instance
+[6]:Successfully Created instance
+[7]:Entering main loop
+[8]:Safe exit from main loop
+[9]:Cleaning up program
+[10]:Safely Shut Down
