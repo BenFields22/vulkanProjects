@@ -7,3 +7,4 @@ logVulkan:
 clean:
 	rm ./build/imguiTest
 	rm ./build/helloTriangle
+	rm ./build/loggingVulkan
